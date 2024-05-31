@@ -1,0 +1,9 @@
+Platform  Firebase App Id
+web       1:293826604940:web:2a23ec177ca7b4df96b0a9
+android   1:293826604940:android:6d845a7539e8352b96b0a9
+ios       1:293826604940:ios:6f18c08a304bc83996b0a9
+macos     1:293826604940:ios:6f18c08a304bc83996b0a9
+windows   1:293826604940:web:7d5c7445ed9f67cc96b0a9
+
+
+// GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
